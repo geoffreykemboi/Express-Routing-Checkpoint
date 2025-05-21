@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: rgb(212, 92, 92);
+   text-align: center;
+}
+
+
+h1 {
+  color: #075a3e;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  font-size: 18px;
+  font-weight: normal;
+  font-style: italic;
+}
